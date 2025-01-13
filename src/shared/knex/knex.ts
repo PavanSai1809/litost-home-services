@@ -3,7 +3,7 @@ export enum Tables {
   sections = 'sections',
   sectionContent = 'section_content',
   socialMediaLinks = 'social_media_links',
-  contactDetails = 'contact_details',
+  contactDetails = 'contact_detail',
   newsletterSubscriptions = 'newsletter_subscriptions'
 }
 
